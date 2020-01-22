@@ -1,0 +1,8 @@
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\bin\Debug\netstandard2.0\CapaDeDatos.deps.json
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\bin\Debug\netstandard2.0\CapaDeDatos.dll
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\bin\Debug\netstandard2.0\CapaDeDatos.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\obj\Debug\netstandard2.0\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\obj\Debug\netstandard2.0\CapaDeDatos.AssemblyInfoInputs.cache
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\obj\Debug\netstandard2.0\CapaDeDatos.AssemblyInfo.cs
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\obj\Debug\netstandard2.0\CapaDeDatos.dll
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeDatos\obj\Debug\netstandard2.0\CapaDeDatos.pdb

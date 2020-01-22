@@ -1,0 +1,11 @@
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\bin\Debug\netstandard2.0\CapaDeNegocios.deps.json
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\bin\Debug\netstandard2.0\CapaDeNegocios.dll
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\bin\Debug\netstandard2.0\CapaDeNegocios.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\bin\Debug\netstandard2.0\CapaDeDatos.dll
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\bin\Debug\netstandard2.0\CapaDeDatos.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\obj\Debug\netstandard2.0\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\obj\Debug\netstandard2.0\CapaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\obj\Debug\netstandard2.0\CapaDeNegocios.AssemblyInfo.cs
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\obj\Debug\netstandard2.0\CapaDeNegocios.csproj.CopyComplete
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\obj\Debug\netstandard2.0\CapaDeNegocios.dll
+C:\Users\PC 10\source\repos\EjemploCapa\CapaDeNegocios\obj\Debug\netstandard2.0\CapaDeNegocios.pdb

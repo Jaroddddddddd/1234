@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "EjemploCapa/1.0.0": {
+        "dependencies": {
+          "CapaDeNegocios": "1.0.0"
+        },
+        "runtime": {
+          "EjemploCapa.dll": {}
+        }
+      },
+      "CapaDeDatos/1.0.0": {
+        "runtime": {
+          "CapaDeDatos.dll": {}
+        }
+      },
+      "CapaDeNegocios/1.0.0": {
+        "dependencies": {
+          "CapaDeDatos": "1.0.0"
+        },
+        "runtime": {
+          "CapaDeNegocios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjemploCapa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaDeDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaDeNegocios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

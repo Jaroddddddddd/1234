@@ -1,0 +1,16 @@
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\EjemploCapa.exe
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\EjemploCapa.deps.json
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\EjemploCapa.runtimeconfig.json
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\EjemploCapa.runtimeconfig.dev.json
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\EjemploCapa.dll
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\EjemploCapa.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\obj\Debug\netcoreapp3.0\EjemploCapa.csprojAssemblyReference.cache
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\obj\Debug\netcoreapp3.0\EjemploCapa.AssemblyInfoInputs.cache
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\obj\Debug\netcoreapp3.0\EjemploCapa.AssemblyInfo.cs
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\obj\Debug\netcoreapp3.0\EjemploCapa.dll
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\obj\Debug\netcoreapp3.0\EjemploCapa.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\CapaDeDatos.dll
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\CapaDeNegocios.dll
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\CapaDeNegocios.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\bin\Debug\netcoreapp3.0\CapaDeDatos.pdb
+C:\Users\PC 10\source\repos\EjemploCapa\EjemploCapa\obj\Debug\netcoreapp3.0\EjemploCapa.csproj.CopyComplete
